@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "module": "NodeNext",
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "nodenext",
+        "esModuleInterop": true
+    }
+  }
